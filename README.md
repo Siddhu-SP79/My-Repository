@@ -1,3 +1,3 @@
 # My-Repository
-My first Git Repository. 
-Auther - Siddharth Phadatare 
+This is my first Git Repository. 
+Author - Siddharth Phadatare 
